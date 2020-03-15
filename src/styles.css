@@ -1,0 +1,9 @@
+h1,
+p {
+  font-family: Lato;
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

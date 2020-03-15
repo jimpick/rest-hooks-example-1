@@ -1,0 +1,45 @@
+{
+  "name": "rest-hooks-github",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@types/antd": "1.0.0",
+    "@types/lodash": "4.14.144",
+    "@types/parse-link-header": "1.0.0",
+    "@types/react": "16.9.17",
+    "@types/react-dom": "16.9.4",
+    "@types/react-router-dom": "5.1.2",
+    "antd": "3.26.3",
+    "lodash": "4.17.15",
+    "moment": "latest",
+    "parse-link-header": "1.0.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-markdown": "4.1.0",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.3.0",
+    "rest-hooks": "4.5.8"
+  },
+  "devDependencies": {
+    "typescript": "3.7.4",
+    "@babel/core": "7.7.7",
+    "@babel/preset-env": "7.7.7",
+    "@babel/plugin-proposal-class-properties": "7.7.4",
+    "@babel/plugin-proposal-decorators": "7.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not < 1.1%",
+    "not dead",
+    "not ie <= 12",
+    "not op_mini all"
+  ]
+}
